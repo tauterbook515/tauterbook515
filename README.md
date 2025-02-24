@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hello! I'm Lucas
 
+I'm a **Software Development student** currently in my third year of a technical course. Passionate about coding and problem-solving, I'm always looking to improve my skills and explore new technologies.
 
-tauterbook515/tauterbook515 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technologies I'm Learning:
+- **Programming Languages:** C, C#, Java, JavaScript, Python
+- **Web Development:** HTML, CSS
+- **Development Tools:** Visual Studio Code
 
-Here are some ideas to get you started:
+🚀 Interests:
+- Web Development
+- Automation
+- Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+📫 Contact: lucashenriquedejesus98@gmail.com
