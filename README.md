@@ -4,13 +4,14 @@ I'm a **Software Development student** currently in my third year of a technical
 
 🔧 Technologies I'm Learning:
 - **Programming Languages:** C, Java, JavaScript, Python, Dart
-- **Web Development:** HTML, CSS
+- **Web Development:** HTML, CSS, nodeJs, php, bootstrap
 - **Mobile tolls:** Flutter
 - **Development Tools:** Visual Studio Code, MySQL Workbench, IntelliJ
 
 🚀 Interests:
 - Web Development
+- mobile Development
 - Automation
-- Software Engineering
+
 
 📫 Contact: lucashenriquedejesus98@gmail.com
