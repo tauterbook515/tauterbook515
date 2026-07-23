@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Lucas
 
-I'm a **Software Development student** currently in my third year of a technical course. Passionate about coding and problem-solving, I'm always looking to improve my skills and explore new technologies.
+I'm a **Software Development student** currently in the first year of Computer Science at IFSP. Passionate about coding and problem-solving, I'm always looking to improve my skills and explore new technologies.
 
 🔧 Technologies I'm Learning:
 - **Programming Languages:** C, Java, JavaScript, Python, Dart
@@ -13,5 +13,5 @@ I'm a **Software Development student** currently in my third year of a technical
 - mobile Development
 - Automation
 
-
 📫 Contact: lucashenriquedejesus98@gmail.com
+🟦 Linkedin: www.linkedin.com/in/lucas-henrique-jesus
